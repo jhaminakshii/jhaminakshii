@@ -30,7 +30,7 @@ I also have hands-on experience with **SQL queries and data migration**, includi
 Real-time messaging using Socket.io, MongoDB, and React.
 
 ### 🔹 iDiary App  
-Your secure notes icloud in which I used both frontenf and backend integration.
+Your secure notes icloud in which I used both frontend and backend integration.
 
 ### 🔹 General Enterprises Website  
 Business website built with React + Tailwind (Live project).
