@@ -1,45 +1,55 @@
-# Hi, I'm Minakshi 👋
-Frontend Web Developer | JavaScript | React | Landing Pages | UI Development | Data Migration | Wordpress customization 
+## Hi, I'm Minakshi 👋
 
-I build clean, modern, and responsive web applications using **JavaScript, React.js, Tailwind CSS**, and sometimes the full MERN stack. 
-I also have hands-on experience with **SQL queries and data migration**, including migrating data from Excel sheets into systems and performing third-party migrations.
-
----
-
-## 🚀 Skills  
-
-### Frontend Development
-- JavaScript (ES6+)  
-- React.js 
-- Tailwind CSS  
-- Responsive UI Design  
-- REST API Integration  
-- Git & GitHub  
-- WordPress Theme Customization  
-
-### Data & SQL
-- SQL Queries & Data Extraction  
-- Data Migration (Excel → Systems)  
-- Third-party Data Integration / Migration  
+💻 Data Engineer (Data Migration & SQL) | Frontend Developer  
+📊 Aspiring Data Scientist | Python & Data Analytics Learner  
+🎓 Preparing for Master’s in Data Science (Canada – Fall 2027)
 
 ---
 
-## 🌟 Featured Projects
+### 🔹 About Me
+I am a Computer Science graduate with professional experience in:
+- Data migration and validation using SQL
+- Frontend and full-stack web development (React, MERN)
 
-### 🔹 Quick-Chat (Real-time chat app)  
-Real-time messaging using Socket.io, MongoDB, and React.
+Currently, I am transitioning into **Data Science**, focusing on:
+- Python for data analysis
+- SQL for analytics and data quality
+- AI and Machine Learning fundamentals
 
-### 🔹 iDiary App  
-Your secure notes icloud in which I used both frontend and backend integration.
-
-### 🔹 General Enterprises Website  
-Business website built with React + Tailwind (Live project).
+My long-term goal is to pursue a **Master’s in Data Science in Canada** and work on data-driven, impactful solutions.
 
 ---
 
-## 📫 How to Reach Me  
-- Email: **jhaminakshi333@gmail.com**  
-- LinkedIn: (https://www.linkedin.com/in/minakshi-jha-608139293/) 
-- Portfolio Website: Coming Soon  
+### 🛠️ Skills & Tools
+- **Languages:** Python (learning), SQL, JavaScript  
+- **Data:** SQL, Data Migration, Data Validation, Excel  
+- **Web:** React, Node.js, MongoDB, HTML, CSS, Tailwind  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📚 Current Learning (Jan 2026)
+- Python (via W3Schools – fundamentals & data handling)
+- SQL revision for analytics
+- Elements of AI – University of Helsinki
+
+---
+
+### 🚀 Projects
+- Web applications using React & MERN stack
+- SQL-based data migration & validation tasks
+- Data analysis mini-projects (coming soon)
+
+---
+
+### 📌 GitHub Goals for 2026
+- Build strong Python & SQL data projects
+- Add Pandas, NumPy & ML-based projects
+- Maintain consistent daily learning commits
+
+---
+
+📫 **Connect with me:**  
+- LinkedIn: https://www.linkedin.com/in/minakshi-jha-608139293/
 
 I'm currently open for **freelance work** — landing pages, UI development, React projects, and data migration tasks.
