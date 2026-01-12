@@ -8,8 +8,9 @@
 
 ### 🔹 About Me
 I am a Computer Science graduate with professional experience in:
-- Data migration and validation using SQL
-- Frontend and full-stack web development (React, MERN)
+- Data migration and validation using SQL (Excel → Systems, third-party migrations)
+- Frontend and full-stack web development (React, MERN, Tailwind, WordPress)
+- Building clean, modern, responsive web applications
 
 Currently, I am transitioning into **Data Science**, focusing on:
 - Python for data analysis
@@ -51,5 +52,6 @@ My long-term goal is to pursue a **Master’s in Data Science in Canada** and wo
 
 📫 **Connect with me:**  
 - LinkedIn: https://www.linkedin.com/in/minakshi-jha-608139293/
+- Email: jhaminakshi333@gmail.com
 
 I'm currently open for **freelance work** — landing pages, UI development, React projects, and data migration tasks.
