@@ -2,7 +2,7 @@
 
 💻 Data Engineer (Data Migration & SQL) | Frontend Developer  
 📊 Aspiring Data Scientist | Python & Data Analytics Learner  
-🎓 Preparing for Master’s in Data Science (Canada – Fall 2027)
+
 
 ---
 
@@ -16,8 +16,6 @@ Currently, I am transitioning into **Data Science**, focusing on:
 - Python for data analysis
 - SQL for analytics and data quality
 - AI and Machine Learning fundamentals
-
-My long-term goal is to pursue a **Master’s in Data Science in Canada** and work on data-driven, impactful solutions.
 
 ---
 
